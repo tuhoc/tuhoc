@@ -53,7 +53,7 @@ class thButton
 		word _changeTime; 
 		
 		void update();
-		boolean onEvent(byte event);
+		boolean onEvent(byte event); 
 };
 
  
