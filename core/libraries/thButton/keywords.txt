@@ -1,0 +1,21 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+thButton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+onPress	KEYWORD2
+isPress	KEYWORD2
+onRelease	KEYWORD2
+isRelease	KEYWORD2
+onHold	KEYWORD2
+isHold	KEYWORD2
+setHoldTime	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
